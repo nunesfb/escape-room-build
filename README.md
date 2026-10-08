@@ -6,7 +6,15 @@ Antes de começar, leiam o **[briefing da missão](BRIEFING_ALUNOS.md)**.
 
 ## Como abrir o jogo
 
-Não é preciso instalar nada. O jogo é um único arquivo, `index.html`.
+Não é preciso instalar nada.
+
+### Opção 1: pelo link (mais simples)
+
+Abram **https://nunesfb.github.io/escape-room-build/** no navegador.
+
+### Opção 2: baixando o arquivo
+
+O jogo é um único arquivo, `index.html`.
 
 1. Nesta página do GitHub, clique em **Code → Download ZIP**.
 2. Extraia o ZIP em uma pasta do computador.
@@ -26,7 +34,7 @@ Também é possível baixar só o arquivo: clique em `index.html` aqui na lista 
 
 ## Problemas comuns
 
-- **O jogo voltou para a tela inicial ou mostra outra equipe:** vocês estão em outro navegador, em uma janela anônima ou abriram o jogo em outro computador. Voltem ao navegador onde começaram.
+- **O jogo voltou para a tela inicial ou mostra outra equipe:** vocês estão em outro navegador, em uma janela anônima, abriram o jogo em outro computador ou trocaram de opção (o link e o arquivo baixado guardam progressos separados). Voltem ao navegador e à opção em que começaram.
 - **A fonte parece diferente:** sem internet o jogo usa uma fonte padrão. Isso não afeta o jogo.
 - **Duas equipes no mesmo computador:** usem navegadores diferentes (por exemplo, uma no Chrome e outra no Edge), porque o progresso salvo é compartilhado dentro do mesmo navegador.
 - **Reiniciar do zero:** botão **↺ Reiniciar operação** na barra lateral. Isso apaga o progresso da equipe.
